@@ -1,0 +1,1 @@
+# omdena-basic-nlp-workshop
