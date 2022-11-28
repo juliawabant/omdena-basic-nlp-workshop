@@ -17,7 +17,7 @@ git clone https://github.com/juliawabant/omdena-basic-nlp-workshop.git
 The project structure is the following :
 ```
 
-├── README.md          <- The top-level README for developers/collaborators using this project.
+├── README.md          <- The top-level README for collaborators using this project.
 │
 ├── introductory_notebook.ipynb            <- Introductory notebook
 │   
