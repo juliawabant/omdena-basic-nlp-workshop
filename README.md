@@ -23,10 +23,10 @@ The project structure is the following :
 │   
 ├── exercises          <- Exercises code folder with portion to complete for this project
     │   
-    ├── simple_chatbot <- Folder for code for building a simple chatbot using ChatterBot or RASA libraries, to complete
+    ├── simple_chatbot <- Folder for code for building a simple chatbot using ChatterBot (code to complete) or RASA.
 ├── solutions         <- Exercises code folder with portion to complete for this project
     │   
-    ├── simple_chatbot <- Folder with full code for building a simple chatbot using ChatterBot or RASA library.
+    ├── simple_chatbot <- Folder with full code for building a simple chatbot using ChatterBot.
     │
     ├── advanced_chatbot <- Folder with full code for building a simple chatbot using HuggingFace library and GPT-2 model, for reference (you're not expected to complete the code here).
 │ 
