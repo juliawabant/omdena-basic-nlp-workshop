@@ -7,7 +7,8 @@ After installing the requirements and adding missing pieces of code, you can run
 python run_chatter.py
 ```
 
-For RASA, in a dedicated environment :
+For RASA, code can be found in rasa/src folder.
+Please do the following in a dedicated environment moving to the rasa/src folder :
 Initialize your bot within your project directory with :
 ```
 rasa init
